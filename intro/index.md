@@ -4,3 +4,9 @@ This section provides foundational knowledge about Agentic AI and why Identity a
 
 *   [What is Agentic AI?](./what-is-agentic-ai.md) - A simple explanation of agentic systems.
 *   [Why IAM Matters for Agents](./why-iam-matters.md) - The risks and importance of getting IAM right.
+
+---
+
+### Navigation
+
+**← Previous:** [Home](../) | **Next →** [What is Agentic AI?](./what-is-agentic-ai.md)

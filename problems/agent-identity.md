@@ -23,3 +23,5 @@ Without a clear, unique, and verifiable identity for an agent (or its operationa
 *   **Verifiability:** How can other systems (or users) trust that an agent is genuinely the identity it claims?
 
 Addressing agent identity is foundational to building any secure IAM framework for agentic systems.
+
+**← Previous:** [Key IAM Problems](./index.md) | **Next →** [TODO]()

@@ -18,3 +18,9 @@ Whether you're a developer building the next generation of AI agents, a security
 *   [Guiding Principles](./guiding-principles/)
 *   [Use Cases & Examples](./use-cases/)
 *   [Best Practices](./best-practices/)
+
+---
+
+### Navigation
+
+**Next →** [Introduction to Agentic AI IAM](./intro/)
