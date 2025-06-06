@@ -6,7 +6,6 @@ Agentic AI introduces unique and complex challenges for Identity and Access Mana
 *   [User Delegation & Consent: Acting on Behalf of Others](./user-delegation-consent.md)
 *   [Scope & Least Privilege: Controlling Agent Capabilities](./scope-least-privilege.md)
 *   [Auditing & Accountability: Knowing What Agents Did](./auditing-accountability.md)
-*   [Security Architecture: Designing Secure Agent Systems](./security-architecture.md)
 *   [Credential Management: Protecting Agent Secrets](./credential-management.md)
 *   [Agent-to-Agent/Service Security: Secure Interactions](./agent-to-agent-security.md)
 *   [Threat Modeling: Identifying Agentic AI Risks](./threat-modeling.md)
